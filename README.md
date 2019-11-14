@@ -28,4 +28,8 @@ If you open a pull request, it is appreciated if you keep one hostname per line,
 
 Please search if somebody already reported the host before opening a new one.
 
+## License
+
+[GNU GPLv3 ](https://choosealicense.com/licenses/gpl-3.0/)
+
 
